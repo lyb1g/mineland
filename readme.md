@@ -11,7 +11,6 @@ Check out the visual preview in the [Screenshots section](#screenshots) below.
 
 ## Installation
 The easiest way to install is to run install.sh
-
 1. Open terminal
 2. Copy repo
 ```bash
@@ -63,6 +62,12 @@ hl.on("hyprland.start", function ()
   hl.exec_cmd("qs")
 end)
 ```
+
+## Usage
+
+**To add an app to the dock**
+1. Hover over an app in the launcher
+2. Press _Ctrl + Slot Number (1-9)_ to pin the app
 
 ## Screenshots
 ![Screensho1](assets/screenshot1.png)
