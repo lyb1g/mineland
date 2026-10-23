@@ -4,10 +4,10 @@ This shell was made by Nelix. The main purpose of this project is to have fun.
 It includes a launcher in the style of Minecraft inventory. Power manu in the style of pause menu in game.
 And the coolest part, in my opinion, is a chat that catches all you notifications and turns them into Minecraft-style chat messages.
 
+Check out the visual preview in the [Screenshots section](#screenshots) below.
+
 ## Watch the demo
 [![Watch the video](https://img.youtube.com/vi/w0NpKxcDgfQ/0.jpg)](https://www.youtube.com/watch?v=w0NpKxcDgfQ)
-
-Check out the visual preview in the [Screenshots section](#screenshots) below.
 
 ## Installation
 The easiest way to install is to run install.sh
