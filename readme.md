@@ -5,7 +5,7 @@ It includes a launcher in the style of Minecraft inventory. Power manu in the st
 And the coolest part, in my opinion, is a chat that catches all you notifications and turns them into Minecraft-style chat messages.
 
 ## Watch the demo
-[![Watch the video](https://img.youtube.com/vi/w0NpKxcDgfQ/0.jpg)](https://www.youtube.com/watch?v=w0NpKxcDgfQ)
+[(https://img.youtube.com/vi/w0NpKxcDgfQ/0.jpg)](https://www.youtube.com/watch?v=w0NpKxcDgfQ)
 
 ## Installation
 The easiest way to install is to run install.sh
