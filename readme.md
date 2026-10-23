@@ -4,7 +4,7 @@ This shell was made by Nelix. The main purpose of this project is to have fun.
 It includes a launcher in the style of Minecraft inventory. Power manu in the style of pause menu in game.
 And the coolest part, in my opinion, is a chat that catches all you notifications and turns them into Minecraft-style chat messages.
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/w0NpKxcDgfQ/0.jpg)](https://www.youtube.com/watch?v=w0NpKxcDgfQ)
 
 ## Installation
 The easiest way to install is to run install.sh
@@ -42,11 +42,18 @@ hl.bind(mainMod .. "+ SHIFT + J", hl.dsp.exec_cmd("qs ipc call chat clearAll")) 
 ```
 
 **Wallpaper directory**
-1. Open ~/.config/quickshell/config.json
-2. Change: "wallpapersDir": "_full_path_to_folder_"
+1. Open
+```
+~/.config/quickshell/config.json
+```
+2. Change
+```
+"wallpapersDir": "_full_path_to_folder_"
+```
 3. Restart quickshell
 
 **Autostart**
+
 Add this to your Hyprland config
 ```lua
 hl.on("hyprland.start", function () 
