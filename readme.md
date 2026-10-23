@@ -61,3 +61,8 @@ hl.on("hyprland.start", function ()
   hl.exec_cmd("qs")
 end)
 ```
+
+## Screenshots
+![Screensho1](assets/screenshot1.png)
+![Screensho2](assets/screenshot2.png)
+![Screensho3](assets/screenshot3.png)
