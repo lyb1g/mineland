@@ -54,12 +54,23 @@ hl.bind(mainMod .. "+ SHIFT + J", hl.dsp.exec_cmd("qs ipc call chat clearAll")) 
 ```
 3. Restart quickshell
 
+**Wallpaper Manager**
+Install
+```
+sudo pacman -S awww
+```
+Run daemon
+```bash
+awww-daemon & disown
+```
+
 **Autostart**
 
 Add this to your Hyprland config
 ```lua
 hl.on("hyprland.start", function () 
   hl.exec_cmd("qs")
+  hl.exec_cmd("awww-daemon")
 end)
 ```
 
