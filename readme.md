@@ -55,6 +55,7 @@ hl.bind(mainMod .. "+ SHIFT + J", hl.dsp.exec_cmd("qs ipc call chat clearAll")) 
 3. Restart quickshell
 
 **Wallpaper Manager**
+
 Install
 ```
 sudo pacman -S awww
