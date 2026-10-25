@@ -7,7 +7,7 @@ And the coolest part, in my opinion, is a chat that catches all you notification
 Check out the visual preview in the [Screenshots section](#screenshots) below.
 
 ## Watch the demo
-[![Watch the video](https://img.youtube.com/vi/w0NpKxcDgfQ/0.jpg)](https://www.youtube.com/watch?v=w0NpKxcDgfQ)
+[![Watch the video](https://img.youtube.com/vi/86BuQh1uav4/0.jpg)](https://www.youtube.com/watch?v=86BuQh1uav4)
 
 ## Installation
 The easiest way to install is to run install.sh
